@@ -1,18 +1,28 @@
-# kozeuh_bank-atm
-Bank and ATM for FiveM in RageUI
+<h2 align='center'>✔️ v0.1 No Release - Private - Only an overview </h2>
 
-✔️ Version v0.1 No-Release / Private 
+<h2 align='center'>🔒 Dépendances / Dependencies :</h2>
+<div align='center'>
 
-🔒 Dépendances:
+    RageUI  - https://github.com/iTexZoz/NativeUILua_Reloaded
+    es_extended [ESX v1] - https://github.com/esx-framework/es_extended/
+</div>
 
-    RageUI
-    es_extended 
+<h2 align='center'>📷 Vidéo / Preview :</h2>
+<div align='center'> v0.1 : https://streamable.com/wdok9n <br></br>
+Logs Discord : https://prnt.sc/tc70mf </div>
 
+<h2 align='center'>👉 A propos de  :</h2>
+<div align='center'>
 
-📷 Vidéo / Preview / Screen :
+    - Script de Banque et ATM en RageUI. (Vidéo qui date, tout est fonctionnel dont le refresh instantanné.)
+    🚫 Une version 0.2 est en cours avec un système de carte/compte bancaire + un refresh actuel du contenu.
+</div>
 
-    v0.1 : https://streamable.com/wdok9n
-    Logs Discord : https://prnt.sc/tc70mf
+<h2 align='center'>👉 About  :</h2>
+<div align='center'>
 
+    - Bank and ATM script in RageUI. (Video that dates, everything is functional including the instant refresh).
+    🚫 A version 0.2 is in progress with a bank card/account system + a current refresh of the content.
+</div>
 
-    🔖Copyright (C) 2020 KoZeuh 
+<h2 align='center'>🔖 Copyright (C) 2020 KoZeuh</h2>
